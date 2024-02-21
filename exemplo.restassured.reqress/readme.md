@@ -13,7 +13,7 @@ Este projeto é um exemplo simples para validar os endpoint do site reqres
 1.Clone este repositório: git clone <url>
 2.Importar o projeto para IDE ou execute por linha de comando
 
-##Executar por linha de comando
+## Executar por linha de comando
 
 1.Navegue até a raiz do projeto
 2.Execute o comando mvn test
